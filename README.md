@@ -13,9 +13,7 @@
    
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[![Merve Noyan](https://github-readme-medium.vercel.app/?username=cahitberkay)](https://medium.com/@cahitberkay)
+[![Cahit Berkay](https://github-readme-medium.vercel.app/?username=cahitberkay)](https://medium.com/@cahitberkay)
 <!-- BLOG-POST-LIST:END -->
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitberkay&layout=compact&hide=html" alt="cahitberkay"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitberkay&show_icons=true" alt="cahitberkay" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitberkay&layout=compact&hide=html" alt="cahitberkay"/></p>
