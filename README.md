@@ -1,5 +1,5 @@
 <h1>Hi, I'm Cahit Berkay👋</h1>
-<h3>Frontend Developer and UI/UX Designer</h3>
+<h3>UI Developer</h3>
 
 <em>Master of Science, Computer Engineer at <a href="https://unika.edu.tr">University of Karabuk</a>
 
@@ -10,10 +10,5 @@
 [![Website Badge](https://img.shields.io/badge/-cahitberkaykazangirler.com-blue?style=flat&logo=Google-Chrome&logoColor=white&link=https://cahitberkaykazangirler.com&color=0000ff)](https://cahitberkaykazangirler.com) [![Twitter Badge](https://img.shields.io/badge/cahitberkay26-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cahitberkay26)](https://twitter.com/cahitberkay26)
 [![Gmail Badge](https://img.shields.io/badge/-cahitberkaykazangirler-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cahitberkaykazangirler@gmail.com&color=blueviolet)](mailto:cahitberkaykazangirler@gmail.com)
 
-   
-### Blog Posts
-<!-- BLOG-POST-LIST:START -->
-[![Cahit Berkay](https://github-readme-medium.vercel.app/?username=cahitberkay)](https://medium.com/@cahitberkay)
-<!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitberkay&layout=compact&hide=html" alt="cahitberkay"/></p>
